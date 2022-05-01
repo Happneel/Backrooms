@@ -24,6 +24,11 @@ Download / clone this repository to your local machine.
 - `clip -h`
 > Coming soon ! (even if it is not really needed)
 
+## Inputs
+You can try to press `ESC` :) I have nothing more to say.
+<br />
+To force quit the program, press `SPACE`.
+
 ## Uninstall
 Why would you do that ?
 <br />
